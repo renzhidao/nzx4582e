@@ -1,1 +1,14 @@
-{"_meta":{"purge_at":1789025520591},"links":{"WUml":{"url":"https://s.1og.dpdns.org/share.html?owner=u_o9j8lcuox&sid=s_mtv7fxy2p5rlw3","created":1789025520591,"ttl":86400,"expire":1789111920591}}}
+{
+  "_meta": {
+    "purge_at": 1789025520591
+  },
+  "links": {
+    "WUml": {
+      "url": "https://s.1og.dpdns.org/share.html?owner=u_o9j8lcuox&sid=s_mtv7fxy2p5rlw3",
+      "created": 1789025520591,
+      "ttl": 86400,
+      "expire": 1789111920591
+    }
+  },
+  "redirect_mode": true
+}
