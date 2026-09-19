@@ -1,5 +1,18 @@
 {
-  "messages": [],
+  "messages": [
+    {
+      "id": "8734436f-524b-4bd5-91a4-6b968db002e0",
+      "fromName": "Catchly 向导",
+      "fromEmail": "hello@catchly.mail",
+      "toEmail": "hello@1od.dpdns.org",
+      "subject": "验证码 320711 · Catchly GIT版",
+      "preview": "这是 Catchly GIT版 Worker 的模拟投递，已使用 GitHub 存储，不再受 KV 额度限制。验证码 320711。",
+      "textBody": "这是 Catchly GIT版 Worker 的模拟投递，已使用 GitHub 存储，不再受 KV 额度限制。验证码 320711。",
+      "receivedAt": "2026-09-19T18:57:18.824Z",
+      "isRead": false,
+      "lane": "CATCHLY"
+    }
+  ],
   "aliases": [
     "b",
     "e",
@@ -7,6 +20,7 @@
     "d",
     "a",
     "mytest",
-    "newkeytest"
+    "newkeytest",
+    "hello"
   ]
 }
