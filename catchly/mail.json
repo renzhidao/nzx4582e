@@ -1,6 +1,18 @@
 {
   "messages": [
     {
+      "id": "7578bbab-06f5-4a06-b0f9-bf759fe56dc8",
+      "fromName": "010001a0bb095567-0a404142-cfb3-4532-a71b-79d736a1307b-000000",
+      "fromEmail": "010001a0bb095567-0a404142-cfb3-4532-a71b-79d736a1307b-000000@send.everify.arena.ai",
+      "toEmail": "a@1od.dpdns.org",
+      "subject": "Confirm Your Signup",
+      "preview": "Arena [https://cdn.arena.ai/arena-logo-icon-black.svg]\n\nVERIFY YOUR EMAIL\n\nWelcome to Arena! Please confirm your email address to continue.\n",
+      "textBody": "Arena [https://cdn.arena.ai/arena-logo-icon-black.svg]\n\nVERIFY YOUR EMAIL\n\nWelcome to Arena! Please confirm your email address to continue.\n\nVerify Email\n[https://arena.ai/nextjs-api/callback/email?token=pkce_9434186abdd2e04b8c79addf6529a725cd8fdaf9faed4987dbf7514e&type=email&signup_intent_id=ce6d4be4-0972-4e86-824f-5240c66b6fcc]\nHow it Works [https://arena.ai/how-it-works] About Us [https://arena.ai/about]\nOur Blog [https://arena.ai/blog]\nArena [https://cdn.arena.ai/arena-full-logo-small-black.svg]",
+      "receivedAt": "2026-09-19T18:59:07.388Z",
+      "isRead": false,
+      "lane": "CATCHLY"
+    },
+    {
       "id": "8734436f-524b-4bd5-91a4-6b968db002e0",
       "fromName": "Catchly 向导",
       "fromEmail": "hello@catchly.mail",
