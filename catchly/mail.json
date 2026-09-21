@@ -1,6 +1,18 @@
 {
   "messages": [
     {
+      "id": "fde23394-3560-4570-bb92-bf0d0b93efd6",
+      "fromName": "noreply",
+      "fromEmail": "noreply@apple.com",
+      "toEmail": "a@1od.dpdns.org",
+      "subject": "=?gb2312?B?0enWpMTjtcS159fT08q8/rXY1rc=?=",
+      "preview": "你最近已选择 a@1od.dpdns.org 作为你的新 Apple 账户。为验证此电子邮件地址属于你，请在你的电子邮件验证页面输入下方验证码：\n311372\n\n你收到此电子邮件的原因：\n每当你为 Apple 账户选择一个电子邮件地址时，Apple 会提出验证要求。你的电子邮件在",
+      "textBody": "你最近已选择 a@1od.dpdns.org 作为你的新 Apple 账户。为验证此电子邮件地址属于你，请在你的电子邮件验证页面输入下方验证码：\n311372\n\n你收到此电子邮件的原因：\n每当你为 Apple 账户选择一个电子邮件地址时，Apple 会提出验证要求。你的电子邮件在验证后才能使用。\n\n如果你未做过此更改，或者认为有人未经授权访问了你的账户，你需尽快前往你的 Apple 账户页面 https://account.apple.com 更改你的密码。\n\n此致\nApple 支持\n\n-------------------------------------------------------------\n\nApple 账户\nhttps://account.apple.com\n\n支持\nhttps://www.apple.com/support\n\n隐私政策\nhttps://www.apple.com/legal/privacy\n\nCopyright (c) 2026 One Apple Park Way, Cupertino, CA 95014, United States 保留所有权利。",
+      "receivedAt": "2026-09-21T11:18:21.633Z",
+      "isRead": false,
+      "lane": "CATCHLY"
+    },
+    {
       "id": "241da3c8-9ccb-464f-b9d1-36e1a70c4a1f",
       "fromName": "Do_not_reply",
       "fromEmail": "do_not_reply@id.apple.com",
