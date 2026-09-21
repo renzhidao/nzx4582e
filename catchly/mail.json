@@ -1,6 +1,18 @@
 {
   "messages": [
     {
+      "id": "241da3c8-9ccb-464f-b9d1-36e1a70c4a1f",
+      "fromName": "Do_not_reply",
+      "fromEmail": "do_not_reply@id.apple.com",
+      "toEmail": "a@1od.dpdns.org",
+      "subject": "=?gb2312?B?0enWpLXn19PTyrz+tdjWt7vytee7sLrFwus=?=",
+      "preview": "����ѡ��˵����ʼ���ַ��Ϊ��� Apple �˻���Ϊ��֤�˵����ʼ���ַ�����㣬��㰴�·����ӣ�Ȼ��ʹ����� Apple �˻��������¼��\n\n������֤\nhttps://id.apple.com/IDMSEmailVett",
+      "textBody": "����ѡ��˵����ʼ���ַ��Ϊ��� Apple �˻���Ϊ��֤�˵����ʼ���ַ�����㣬��㰴�·����ӣ�Ȼ��ʹ����� Apple �˻��������¼��\n\n������֤\nhttps://id.apple.com/IDMSEmailVetting/vetemail.html?language=CN-ZH&key=001313-00-d16ff5e8a413b22133c9bf2ad96ce2155e421096a2b2a117fb40caa0907e2866LTOW&type=DFT\n\n���յ��˵����ʼ���ԭ��\nApple ������ѡ������ʼ���ַΪ Apple �˻�ʱ�����֤Ҫ����ĵ����ʼ���ַ�辭����֤����ʹ�á�\n\n�����δ�����˸��ģ�����Ϊ��δ����Ȩ����Ա����������˻����뾡��ǰ�� Apple �˻�ҳ�� https://account.apple.com �������롣\n\n-------------------------------------------------------------\n\nApple �˻�\nhttps://account.apple.com\n\n֧��\nhttps://www.apple.com/support/\n\n��˽����\nhttps://www.apple.com/legal/privacy\n\nCopyright (c) 2026 One Apple Park Way, Cupertino, CA 95014, United States ��������Ȩ����",
+      "receivedAt": "2026-09-21T11:18:13.827Z",
+      "isRead": false,
+      "lane": "CATCHLY"
+    },
+    {
       "id": "be3dd0e5-440f-42de-bbe7-1c2027c8ff60",
       "fromName": "no-reply",
       "fromEmail": "no-reply@siliconflow.cn",
