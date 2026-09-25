@@ -1,6 +1,18 @@
 {
   "messages": [
     {
+      "id": "d1e98cbb-11b3-494a-bcc6-0c7397b45128",
+      "fromName": "postmaster",
+      "fromEmail": "postmaster@cioeu143803.mail.arena.ai",
+      "toEmail": "github@1od.dpdns.org",
+      "subject": "The Arena leaderboard just got better - see what changed",
+      "preview": "Discover faster insights, new filters, and real-time model feeds  \n\nArena Website ( https://www.arena.ai )\n\n​\n\nView in browser ( https://tra",
+      "textBody": "Discover faster insights, new filters, and real-time model feeds  \n\nArena Website ( https://www.arena.ai )\n\n​\n\nView in browser ( https://track.customer.io/deliveries/dgT41gwLAJTx7waT8e8GAaDWIck8yMR7z6sLv-G6fg== )\n\nProduct Update\n\n​\n\nNew Leaderboard Experience\n\nWe just released a fully redesigned leaderboard overview ( https://www.arena.ai/leaderboard?utm_source=email&utm_medium=product_update&utm_content=leaderboard_redesign ) and want to invite you to check it out. This is the new hub to keep up with the AI frontier, get insights on model performance across categories, and see the most cost-efficient models.\n\nThe new overview page contains: \n\n* New Release Models: real-time feed of the latest models added to Arena\n* Performance by Category: surfacing live sessions, and the top models by categories like Agents, Images, and Coding\n* Model Capabilities: first impressions of new models\n* Arena News: the latest research, features and updates from Arena\n\nleaderboard redesign ( https://www.arena.ai/leaderboard?utm_source=email&utm_medium=product_update&utm_content=leaderboard_redesign )\n\nExplore the new leaderboard ( https://www.arena.ai/leaderboard?utm_source=email&utm_medium=product_update&utm_content=leaderboard_redesign )\n\n​\n\nBest,\nArena Team\n\n \n\nPrivacy Policy ( https://help.arena.ai/articles/3765052346-privacy-policy )\n\nTerms of Service ( https://help.arena.ai/articles/5629909088-terms-of-use )\n\nManage Preferences ( https://track.customer.io/manage_subscription_preferences/dgT41gwLAJTx7waT8e8GAaDWIck8yMR7z6sLv-G6fg== )\n\nUnsubscribe ( https://track.customer.io/unsubscribe/dgT41gwLAJTx7waT8e8GAaDWIck8yMR7z6sLv-G6fg== )\n\n​\n\nArena Intelligence, Inc.\n2261 Market St., Ste 85064 San Francisco, CA 94114-1612 \n\nDiscord ( https://discord.gg/arena-ai )\n\nYouTube ( https://www.youtube.com/@ArenaAIOfficial )\n\nLinkedIn ( https://www.linkedin.com/company/arenaai/ )\n\nX ( https://x.com/arena )",
+      "receivedAt": "2026-09-25T01:15:34.769Z",
+      "isRead": false,
+      "lane": "CATCHLY"
+    },
+    {
       "id": "9534af1d-4c53-4ec7-af73-4097c005a718",
       "fromName": "bounces+922094-9c40-github=1od.dpdns.org",
       "fromEmail": "bounces+922094-9c40-github=1od.dpdns.org@em8.wetransfer.com",
