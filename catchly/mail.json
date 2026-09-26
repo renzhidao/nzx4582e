@@ -165,7 +165,7 @@
       "preview": "这是 Catchly GIT版 Worker 的模拟投递，已使用 GitHub 存储，不再受 KV 额度限制。验证码 320711。",
       "textBody": "这是 Catchly GIT版 Worker 的模拟投递，已使用 GitHub 存储，不再受 KV 额度限制。验证码 320711。",
       "receivedAt": "2026-09-19T18:57:18.824Z",
-      "isRead": false,
+      "isRead": true,
       "lane": "CATCHLY"
     }
   ],
