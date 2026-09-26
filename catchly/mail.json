@@ -117,7 +117,7 @@
       "preview": "您的验证码是：231544\n\n\t\t\t有效时长为10分钟，请尽快验证！",
       "textBody": "您的验证码是：231544\n\n\t\t\t有效时长为10分钟，请尽快验证！",
       "receivedAt": "2026-09-21T06:10:07.087Z",
-      "isRead": false,
+      "isRead": true,
       "lane": "CATCHLY"
     },
     {
