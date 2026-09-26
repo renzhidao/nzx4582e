@@ -1,84 +1,6 @@
 {
   "messages": [
     {
-      "id": "3d810414-fb0b-45bd-b6e0-775fb1e4db9d",
-      "fromName": "Catchly 测试投递",
-      "fromEmail": "hello@catchly.invalid",
-      "toEmail": "b@1od.dpdns.org",
-      "subject": "测试邮件 888958",
-      "textBody": "这是一封由 Catchly 生成的测试邮件，用来确认投递链路是否正常。\n\n验证码 888958\n\n若你收到这封邮件，说明收件链路正常。",
-      "htmlBody": "<p>这是一封 <b>测试邮件</b>，用来确认投递链路是否正常。</p><p>验证码 <b>888958</b></p>",
-      "preview": "这是一封由 Catchly 生成的测试邮件，用来确认投递链路是否正常。\n\n验证码 888958\n\n若你收到这封邮件，说明收件链路正常。",
-      "receivedAt": "2026-09-26T20:17:54.797Z",
-      "isRead": true,
-      "lane": "CATCHLY"
-    },
-    {
-      "id": "150bcd97-1a80-4d9d-9948-f2bded5811b9",
-      "fromName": "Catchly 测试投递",
-      "fromEmail": "hello@catchly.invalid",
-      "toEmail": "b@1od.dpdns.org",
-      "subject": "测试邮件 899632",
-      "textBody": "这是一封由 Catchly 生成的测试邮件，用来确认投递链路是否正常。\n\n验证码 899632\n\n若你收到这封邮件，说明收件链路正常。",
-      "htmlBody": "<p>这是一封 <b>测试邮件</b>，用来确认投递链路是否正常。</p><p>验证码 <b>899632</b></p>",
-      "preview": "这是一封由 Catchly 生成的测试邮件，用来确认投递链路是否正常。\n\n验证码 899632\n\n若你收到这封邮件，说明收件链路正常。",
-      "receivedAt": "2026-09-26T20:16:40.816Z",
-      "isRead": true,
-      "lane": "CATCHLY"
-    },
-    {
-      "id": "fe220065-a3bb-4684-99d9-e2df2dc14e03",
-      "fromName": "Catchly 测试投递",
-      "fromEmail": "hello@catchly.invalid",
-      "toEmail": "b@1od.dpdns.org",
-      "subject": "测试邮件 491596",
-      "textBody": "这是一封由 Catchly 生成的测试邮件，用来确认投递链路是否正常。\n\n验证码 491596\n\n若你收到这封邮件，说明收件链路正常。",
-      "htmlBody": "<p>这是一封 <b>测试邮件</b>，用来确认投递链路是否正常。</p><p>验证码 <b>491596</b></p>",
-      "preview": "这是一封由 Catchly 生成的测试邮件，用来确认投递链路是否正常。\n\n验证码 491596\n\n若你收到这封邮件，说明收件链路正常。",
-      "receivedAt": "2026-09-26T20:16:14.272Z",
-      "isRead": true,
-      "lane": "CATCHLY"
-    },
-    {
-      "id": "d352e684-eb4b-44bd-bc06-1672ac7b5f44",
-      "fromName": "Catchly 测试投递",
-      "fromEmail": "hello@catchly.invalid",
-      "toEmail": "b@1od.dpdns.org",
-      "subject": "测试邮件 659369",
-      "textBody": "这是一封由 Catchly 生成的测试邮件，用来确认投递链路是否正常。\n\n验证码 659369\n\n若你收到这封邮件，说明收件链路正常。",
-      "htmlBody": "<p>这是一封 <b>测试邮件</b>，用来确认投递链路是否正常。</p><p>验证码 <b>659369</b></p>",
-      "preview": "这是一封由 Catchly 生成的测试邮件，用来确认投递链路是否正常。\n\n验证码 659369\n\n若你收到这封邮件，说明收件链路正常。",
-      "receivedAt": "2026-09-26T20:15:23.752Z",
-      "isRead": true,
-      "lane": "CATCHLY"
-    },
-    {
-      "id": "f83b0657-0536-4722-aeda-feae84c29b10",
-      "fromName": "Catchly 测试投递",
-      "fromEmail": "hello@catchly.invalid",
-      "toEmail": "b@1od.dpdns.org",
-      "subject": "测试邮件 616856",
-      "textBody": "这是一封由 Catchly 生成的测试邮件，用来确认投递链路是否正常。\n\n验证码 616856\n\n若你收到这封邮件，说明收件链路正常。",
-      "htmlBody": "<p>这是一封 <b>测试邮件</b>，用来确认投递链路是否正常。</p><p>验证码 <b>616856</b></p>",
-      "preview": "这是一封由 Catchly 生成的测试邮件，用来确认投递链路是否正常。\n\n验证码 616856\n\n若你收到这封邮件，说明收件链路正常。",
-      "receivedAt": "2026-09-26T20:14:19.168Z",
-      "isRead": true,
-      "lane": "CATCHLY"
-    },
-    {
-      "id": "1304880f-af12-46f2-9f3e-2ff53f5d171b",
-      "fromName": "Catchly 测试投递",
-      "fromEmail": "hello@catchly.invalid",
-      "toEmail": "b@1od.dpdns.org",
-      "subject": "测试邮件 610149",
-      "textBody": "这是一封由 Catchly 生成的测试邮件，用来确认投递链路是否正常。\n\n验证码 610149\n\n若你收到这封邮件，说明收件链路正常。",
-      "htmlBody": "<p>这是一封 <b>测试邮件</b>，用来确认投递链路是否正常。</p><p>验证码 <b>610149</b></p>",
-      "preview": "这是一封由 Catchly 生成的测试邮件，用来确认投递链路是否正常。\n\n验证码 610149\n\n若你收到这封邮件，说明收件链路正常。",
-      "receivedAt": "2026-09-26T20:13:52.569Z",
-      "isRead": true,
-      "lane": "CATCHLY"
-    },
-    {
       "id": "28d6d0e3-9439-43d0-a280-594702ffc331",
       "fromName": "bounces",
       "fromEmail": "bounces@cf-bounce.notify.cloudflare.com",
@@ -233,18 +155,6 @@
       "receivedAt": "2026-09-19T18:59:07.388Z",
       "isRead": false,
       "lane": "CATCHLY"
-    },
-    {
-      "id": "8734436f-524b-4bd5-91a4-6b968db002e0",
-      "fromName": "Catchly 向导",
-      "fromEmail": "hello@catchly.mail",
-      "toEmail": "hello@1od.dpdns.org",
-      "subject": "验证码 320711 · Catchly GIT版",
-      "preview": "这是 Catchly GIT版 Worker 的模拟投递，已使用 GitHub 存储，不再受 KV 额度限制。验证码 320711。",
-      "textBody": "这是 Catchly GIT版 Worker 的模拟投递，已使用 GitHub 存储，不再受 KV 额度限制。验证码 320711。",
-      "receivedAt": "2026-09-19T18:57:18.824Z",
-      "isRead": true,
-      "lane": "CATCHLY"
     }
   ],
   "aliases": [
@@ -256,7 +166,6 @@
     "mytest",
     "newkeytest",
     "hello",
-    "github",
-    "probe.test"
+    "github"
   ]
 }
