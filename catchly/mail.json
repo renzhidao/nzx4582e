@@ -1,6 +1,19 @@
 {
   "messages": [
     {
+      "id": "fe220065-a3bb-4684-99d9-e2df2dc14e03",
+      "fromName": "Catchly 测试投递",
+      "fromEmail": "hello@catchly.invalid",
+      "toEmail": "b@1od.dpdns.org",
+      "subject": "测试邮件 491596",
+      "textBody": "这是一封由 Catchly 生成的测试邮件，用来确认投递链路是否正常。\n\n验证码 491596\n\n若你收到这封邮件，说明收件链路正常。",
+      "htmlBody": "<p>这是一封 <b>测试邮件</b>，用来确认投递链路是否正常。</p><p>验证码 <b>491596</b></p>",
+      "preview": "这是一封由 Catchly 生成的测试邮件，用来确认投递链路是否正常。\n\n验证码 491596\n\n若你收到这封邮件，说明收件链路正常。",
+      "receivedAt": "2026-09-26T20:16:14.272Z",
+      "isRead": false,
+      "lane": "CATCHLY"
+    },
+    {
       "id": "d352e684-eb4b-44bd-bc06-1672ac7b5f44",
       "fromName": "Catchly 测试投递",
       "fromEmail": "hello@catchly.invalid",
