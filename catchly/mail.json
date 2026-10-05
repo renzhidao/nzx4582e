@@ -1,6 +1,18 @@
 {
   "messages": [
     {
+      "id": "5c872adf-667f-4920-bef2-f7539fbc250e",
+      "fromName": "msprvs1=20738sHGW2lTY=bounces-280172-399",
+      "fromEmail": "msprvs1=20738shgw2lty=bounces-280172-399@bounce1.cloudflare.com",
+      "toEmail": "github@1od.dpdns.org",
+      "subject": "That's a wrap on our 16th Birthday Week!",
+      "preview": "Connect 2026_Birthday Week_Email#2_100 off Cloudflare · 16th Birthday Week That's a wrap on our 16th Birthday Week! Thank you for celebratin",
+      "textBody": "Connect 2026_Birthday Week_Email#2_100 off Cloudflare · 16th Birthday Week That's a wrap on our 16th Birthday Week! Thank you for celebrating 16 years with us! We spent the week shipping across the entire stack and knocking out more of your top requests - all part of our mission to help build a better Internet for agents and humans alike ;) In case you missed anything, here's the recap. Featured Launches 01 Introducing Clef and Clef-flash Open-source decision models hosted on Workers AI for high-speed classification and agentic workflows. Plus, a new RL platform that allows developers to fine-tune decision models using their own data. 02 Cloudflare Artifacts Git-compatible, versioned storage that applications and agents can manage programmatically. Now in open beta and available to all Workers Paid plan users. 03 The Internet has a second audience More than half the traffic reaching sites on Cloudflare is now automated, and AI agents are the fastest-growing part of it. We’re helping site owners identify visitors, control access, and monetize it. 04 Cloudflare Basin Our open, serverless data analytics platform - built on Apache Iceberg and R2 - is now generally available. 05 8 major updates to Cloudflare Observability Bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing. See all launches $100 off Connect 2026 Last chance! Your $100 discount code expires TODAY. Use this code at checkout to join a stellar lineup of speakers and companies working at the edge of AI. CONNECT100 Expires 11:59 pm PT October 5, 2026 Claim $100 off Start building · Log in · Visit Community Copyright © 2026 Cloudflare, Inc. 101 Townsend Street, San Francisco, CA 94107 cloudflare.com · Privacy policy · Unsubscribe LinkedIn · X · Instagram",
+      "receivedAt": "2026-10-05T20:21:49.475Z",
+      "isRead": false,
+      "lane": "CATCHLY"
+    },
+    {
       "id": "f769c172-fb3f-4f1d-9a4d-89092d10d7c6",
       "fromName": "noreply",
       "fromEmail": "noreply@icloud.com.cn",
