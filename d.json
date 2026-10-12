@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "purge_at": 1791744951452
+    "purge_at": 1791792718208
   },
   "links": {
     "AEVv": {
@@ -102,6 +102,13 @@
       "url": "https://bloome-beaute.pages.dev/",
       "mode": "direct",
       "created": 1791744951452,
+      "ttl": 0,
+      "expire": 0
+    },
+    "LLCA": {
+      "url": "https://bloome-beaute-en.pages.dev/",
+      "mode": "direct",
+      "created": 1791792718208,
       "ttl": 0,
       "expire": 0
     }
