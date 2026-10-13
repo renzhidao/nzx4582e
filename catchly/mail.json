@@ -1,6 +1,18 @@
 {
   "messages": [
     {
+      "id": "50721256-af65-41e3-b3e7-cb79a1ad20d8",
+      "fromName": "postmaster",
+      "fromEmail": "postmaster@cioeu143803.mail.arena.ai",
+      "toEmail": "github@1od.dpdns.org",
+      "subject": "Try Max, Arena's smartest agentic router, for free",
+      "preview": "Free access for a limited time. Put Max to the test.\n\nArena Website ( https://www.arena.ai )\n\nView in browser ( https://track.customer.io/de",
+      "textBody": "Free access for a limited time. Put Max to the test.\n\nArena Website ( https://www.arena.ai )\n\nView in browser ( https://track.customer.io/deliveries/dgT41gwLAJTx7waT8e8GAaE29Ylo3T5AS_dHIZXr1w== )\n\nModel Availability\n\n( https://www.arena.ai/agent?model_a=max&utm_source=email&utm_medium=optin&utm_campaign=max&utm_content=chart_header )\n\nWe just launched a new agentic version of Max, Arena's router that automatically selects the best model for your task.\n\nPowered by over 7 million real-world Agent Mode sessions, Max ranked #1 on the Agent Arena leaderboard ( http://www.arena.ai/blog/max-router-tops-agent-arena ) in our latest test, delivering frontier performance at 37% lower cost than Claude Fable 5.1 (the top public model at the time of testing).\n\nFor a limited time, you can try Max for free across agentic coding, research, and complex work tasks. Open Agent Mode and select Max from the model dropdown.\n\nTry Max for Free ( https://www.arena.ai/agent?model_a=max&utm_source=email&utm_medium=optin&utm_campaign=max&utm_content=chart_header )\n\nMax is available for free on Arena for a limited time.\n\nBest,\nArena Team\n\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nPrivacy Policy ( https://help.arena.ai/articles/3765052346-privacy-policy )\n\nTerms of Service ( https://help.arena.ai/articles/5629909088-terms-of-use )\n\nManage Preferences ( https://track.customer.io/manage_subscription_preferences/dgT41gwLAJTx7waT8e8GAaE29Ylo3T5AS_dHIZXr1w== )\n\nUnsubscribe ( https://track.customer.io/unsubscribe/dgT41gwLAJTx7waT8e8GAaE29Ylo3T5AS_dHIZXr1w== )\n\nArena Intelligence, Inc.\n2261 Market St., Ste 85064 San Francisco, CA 94114-1612\n\nDiscord ( https://discord.gg/arena-ai )\n\nYouTube ( https://www.youtube.com/@ArenaAIOfficial )\n\nLinkedIn ( https://www.linkedin.com/company/arenaai/ )\n\nX ( https://x.com/arena )",
+      "receivedAt": "2026-10-13T20:31:46.386Z",
+      "isRead": false,
+      "lane": "CATCHLY"
+    },
+    {
       "id": "e14711c2-2bd8-473a-b6f6-6a8e39643523",
       "fromName": "msprvs1=20745sg_yIA_a=bounces-280172-399",
       "fromEmail": "msprvs1=20745sg_yia_a=bounces-280172-399@bounce1.cloudflare.com",
